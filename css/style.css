@@ -1,0 +1,16 @@
+.header_area.main-menu.navbar.navbar-brand {
+    padding: 0 2rem 0 5rem;
+}
+
+.header_area.main-menu.navbar {
+    padding: 1rem 20rem;
+}
+
+li>a.nav-link {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, cursive;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 1.7rem;
+    color: aliceblue rgb(94, 60, 126);
+}
